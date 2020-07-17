@@ -1,0 +1,31 @@
+.input{
+  display: flex;
+  flex-direction: row;
+  margin: 10px;
+}
+
+.input div{
+  font-size: 2vw;
+  margin-right: .7vw;
+}
+
+.input input{
+  width: 20vw;
+}
+
+
+.App button {
+  width : 8vw;
+  height: 7vh;
+  background-color: green;
+  outline: none;
+}
+
+.App button.red {
+  background-color: red;
+  color : #fff;
+}
+
+
+
+
